@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#bar-labels-0 {
+  display: none;
+  transform: rotate(-90deg) !important;
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(-90deg) !important;
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg) !important;
+
+  /* IE */
+  -ms-transform: rotate(-90deg) !important;
+
+  /* Opera */
+  -o-transform: rotate(-90deg) !important;
+}
